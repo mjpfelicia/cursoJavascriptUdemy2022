@@ -3,7 +3,7 @@
 
 let numeros = [111,20,5,81,10];
 
-let [number,number1,number2,number3,number4]= numeros;
+let [number,number1,number2,number3,number4] = numeros;
 
 
 

@@ -12,6 +12,7 @@ function imprimir(cor) {
     console.log(` Esta cor e ${cor}`);
 }
 
+
 cores.forEach(imprimir);
 
 // outro jeito de fazer usando forEach
@@ -21,11 +22,12 @@ cores.forEach(cor => {
 
 })
 
+
 // outro jeito de fazer usando for
 
 
 for (let cor = 0; cor < cores.length; cor++){
-    console.log(`Esta cor e ${cores[cor]} e esta sendo execulcada na function For.`)
+    console.log(`Este outro jeito de imprimir a cor  ${cores[cor]} e esta sendo execulcada na function For.`)
 
 }
 

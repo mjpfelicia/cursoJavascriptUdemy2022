@@ -9,6 +9,6 @@ for (let nome = 0; nome <= nomes.length; nome++) {
 
 }
 
-for(let nome=0;nome<=nomes.length;nome++){
+for(let nome = 0; nome <= nomes.length; nome++){
   console.log(nomes[0])
 }

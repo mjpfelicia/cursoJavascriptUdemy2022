@@ -13,8 +13,10 @@ delete onibus.rodas;
 
 onibus.janelas = 20;
 onibus.baneiro = 1;
+onibus.assentoEspecial = 6;
 
 console.log(onibus);
 console.log(onibus.janelas);
+console.log(`Esse ônibus possui ${onibus.assentoEspecial} assentos especiais.`);
 
 

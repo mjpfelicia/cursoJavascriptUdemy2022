@@ -20,13 +20,13 @@ class cachorro extends mamifero {
         this.raca = raca
     }
 
-    latir(){
-    console.log("auauauaua")
+    latir() {
+        console.log("auauauaua")
     }
 }
 
 
-let pug =new cachorro(4,"pug");
+let pug = new cachorro(4, "pug");
 
 
 console.log(pug);

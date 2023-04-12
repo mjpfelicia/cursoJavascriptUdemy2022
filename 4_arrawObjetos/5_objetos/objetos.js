@@ -4,16 +4,16 @@
 
 let cachorro = {
 
-  nome: "pitu;",
+  nome: "Pitu",
   patas: 4,
   cor: "preto",
   latir: function () {
-    console.log("au , au ,au")
+    console.log("au , au ,au" + ` e o seu latido`)
   }
 
 }
 
-console.log(cachorro.nome);
-console.log(cachorro.patas);
-console.log(cachorro.cor);
+console.log(cachorro.nome +` e o nome do cachorro`);
+console.log(`ele tem ` + cachorro.patas +` patas`);
+console.log(`e sua cor e ` + cachorro.cor);
 cachorro.latir();

@@ -21,6 +21,7 @@ console.log(soma_2(7))
 //  esta função armazena e soma os dados fazendo um contador
 function contador(num){
     let cont = num;
+
     let somarContador = function(){
         console.log(cont);
         cont++;
@@ -29,7 +30,7 @@ function contador(num){
 }
 
 
-let meuContador = contador(5);
+let meuContador = contador(12);
 meuContador();
 meuContador();
 meuContador();

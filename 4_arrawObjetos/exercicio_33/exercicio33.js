@@ -12,3 +12,17 @@ for (let frase = 0; frase < arryFrase.length; frase++){
 
 
 }
+
+
+
+
+let pessoa={
+    "name": "Sandra",
+    "age":"47",
+    "role":"programadora"
+}
+
+
+console.log(pessoa.name);
+console.log(pessoa.age);
+console.log(pessoa.role)

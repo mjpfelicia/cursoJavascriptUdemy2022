@@ -2,6 +2,8 @@ let brinquados = ["boneca", "carrinho", "bola"];
 
 
 
+
+
 console.log(brinquados)
 
 // encontra o índece de um determinado elemento

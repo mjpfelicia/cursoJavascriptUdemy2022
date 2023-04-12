@@ -13,7 +13,7 @@ function soma(number_1, number_2) {
 // passou os dados sem os doi parãmetro
 console.log(soma(1));
 
-// passou os doi parâmetro correto
+// passou os dois parâmetro correto
 console.log(soma(1, 2));
 
 

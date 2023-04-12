@@ -14,6 +14,10 @@ function imprimirNumero(number) {
 imprimirNumero(2);
 imprimirNumero(22);
 imprimirNumero(2222);
+imprimirNumero(9);
+
+
+
 
 //  quardando o valor em uma variável
 
@@ -22,5 +26,6 @@ const numerosAleatorios = function () {
 }
 
 
+numerosAleatorios();
 numerosAleatorios();
 numerosAleatorios();

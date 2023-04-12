@@ -13,8 +13,11 @@ console.log(array[3])
 console.log(array[array.length - 1]);
 
 
-
+// mostra o array completo
 console.log(nomes);
+
+// mostra o índece do array
 console.log(nomes[1]);
+
 console.log(booleans);
 console.log(booleans[1]);

@@ -7,6 +7,7 @@ let onibus = {
     portas: 2
 
 }
+
 console.log(onibus.rodas);
 console.log(`O Ônibus tem ${onibus.rodas} rodas`);
 
